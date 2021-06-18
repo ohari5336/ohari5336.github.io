@@ -1,1 +1,16 @@
-[{"id":"1","app_id":"in.ohari5336.mobilepowerprotection","is_disabled":"false","is_my_msg":"false","message":"hello, developer message..."}]
+[
+  {
+	"id": "1",
+	"app_id": "in.ohari5336.mobilepowerprotection",
+	"is_disabled": "false",
+	"is_my_msg": "false",
+	"message": "hello, developer message..."
+  },
+  {
+    "id": "2",
+    "app_id": "in.ohari5336.vikasdailyneeds",
+    "is_disabled": "false",
+    "is_my_msg": "false",
+    "message": "hello, developer message..."
+  }
+]
