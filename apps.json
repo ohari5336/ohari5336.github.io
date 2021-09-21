@@ -17,7 +17,7 @@
     	"id": "3",
     	"app_id": "in.ohari5336.token_system_erp",
     	"is_disabled": "false",
-    	"is_my_msg": "true",
+    	"is_my_msg": "false",
     	"message": "hello, developer message..."
   }
 ]
